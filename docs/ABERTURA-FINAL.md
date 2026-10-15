@@ -1,6 +1,6 @@
 # Abertura cinematográfica — revisão final
 
-Revisão local preparada para aprovação antes de publicar no GitHub. Nenhuma publicação foi realizada.
+Revisão visual aprovada pelo usuário e enviada ao GitHub. Site configurado no GitHub Pages: https://devsmontes.github.io/badboys-barbearia-demo/.
 
 - Revelação por rolagem com duas cortinas em degradê: a composição surge por uma fresta central e abre de forma suave até a marca completa.
 - Aproximação proporcional discreta de 4,5%, retornando à escala final. A logomarca não é redesenhada ou deformada.

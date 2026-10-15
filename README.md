@@ -4,7 +4,9 @@ Revisão visual final: abertura com cortinas de revelação, vinheta e fusão da
 
 Atualização posterior: artes oficiais responsivas no hero, preservando o agendamento e o painel. Recortes, implementação e capturas documentados em [docs/HERO-ARTES.md](docs/HERO-ARTES.md).
 
-Demonstração comercial da Montes Dev, construída sobre a V2. O adendo final prevalece: **não há backend, login, banco remoto, pagamento ou reserva real**. Abertura preservada e mais curta, simulador integrado a painel público, mapa e contato demonstrativo. Nada foi publicado.
+Demonstração comercial da Montes Dev, construída sobre a V2. O adendo final prevalece: **não há backend, login, banco remoto, pagamento ou reserva real**. Abertura cinematográfica, simulador integrado a painel público, mapa e contato demonstrativo.
+
+Site público via GitHub Pages: [abrir Bad Boys Barbearia](https://devsmontes.github.io/badboys-barbearia-demo/). A publicação é executada automaticamente pelo workflow após atualizações em `main`.
 
 ## Executar
 
