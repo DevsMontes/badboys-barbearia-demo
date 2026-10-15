@@ -1,0 +1,89 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 375,
+      "scrollWidth": 375,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 402,
+      "scrollWidth": 402,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 430,
+      "scrollWidth": 430,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 480,
+      "scrollWidth": 480,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 600,
+      "scrollWidth": 600,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 850,
+      "scrollWidth": 850,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 1280,
+      "scrollWidth": 1280,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflow": [],
+      "brokenImages": []
+    }
+  ],
+  "errors": []
+}

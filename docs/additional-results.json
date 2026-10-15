@@ -1,0 +1,51 @@
+{
+  "metrics": {
+    "lcp": 604,
+    "cls": 0.0008102898705445061,
+    "note": "Amostra local sem limitação de rede ou CPU. Não representa métricas de campo. INP não medido."
+  },
+  "audits": [
+    {
+      "label": "serviço mobile",
+      "violations": []
+    },
+    {
+      "label": "calendário mobile",
+      "violations": []
+    },
+    {
+      "label": "horário mobile",
+      "violations": []
+    },
+    {
+      "label": "formulário mobile",
+      "violations": []
+    },
+    {
+      "label": "formulário desktop",
+      "violations": []
+    }
+  ],
+  "landscape": [
+    {
+      "width": 568,
+      "scrollWidth": 568
+    },
+    {
+      "width": 667,
+      "scrollWidth": 667
+    },
+    {
+      "width": 844,
+      "scrollWidth": 844
+    },
+    {
+      "width": 932,
+      "scrollWidth": 932
+    }
+  ],
+  "keyboard": [
+    "skip link",
+    "Escape fecha menu e devolve foco"
+  ]
+}

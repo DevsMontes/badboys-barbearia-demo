@@ -1,0 +1,8 @@
+{
+  "changed_existing_source_files": [
+    "src/main.tsx",
+    "src/components/BrandReveal.tsx",
+    "src/hooks/useIntroProgress.ts"
+  ],
+  "all_other_v3_source_files_identical": true
+}

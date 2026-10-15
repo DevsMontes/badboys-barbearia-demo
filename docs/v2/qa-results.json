@@ -1,0 +1,183 @@
+{
+  "checks": [
+    "skip link contorna a abertura; cabeçalho só após revelação",
+    "retorno ao topo restitui presença sem bloquear rolagem",
+    "movimento reduzido apresenta identidade diretamente",
+    "menu mobile, Escape, ciclo de Tab e âncoras",
+    "seleção externa preserva serviço e preço",
+    "demo completo: validações, dados fictícios, edição, conclusão, cópia, sem WhatsApp",
+    "reinício limpa solicitação",
+    "cliente preservado, telefone inválido rejeitado, conclusão sem número com cópia",
+    "sem armazenamento de dados; inputs legíveis"
+  ],
+  "widths": [
+    {
+      "width": 320,
+      "height": 844,
+      "scrollWidth": 320,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 360,
+      "height": 844,
+      "scrollWidth": 360,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "height": 844,
+      "scrollWidth": 375,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 402,
+      "height": 844,
+      "scrollWidth": 402,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 430,
+      "height": 844,
+      "scrollWidth": 430,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 480,
+      "height": 844,
+      "scrollWidth": 480,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 600,
+      "height": 844,
+      "scrollWidth": 600,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "height": 1000,
+      "scrollWidth": 768,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 850,
+      "height": 1000,
+      "scrollWidth": 850,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "scrollWidth": 1024,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 1280,
+      "height": 1000,
+      "scrollWidth": 1280,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "brokenImages": [],
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "height": 1000,
+      "scrollWidth": 1920,
+      "brokenImages": [],
+      "overflow": []
+    }
+  ],
+  "landscape": [
+    {
+      "width": 568,
+      "height": 320,
+      "scrollWidth": 568
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "scrollWidth": 667
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "scrollWidth": 844
+    },
+    {
+      "width": 932,
+      "height": 430,
+      "scrollWidth": 932
+    },
+    {
+      "width": 390,
+      "height": 667,
+      "scrollWidth": 390
+    }
+  ],
+  "audits": [
+    {
+      "label": "abertura normal",
+      "violations": []
+    },
+    {
+      "label": "serviço demonstração",
+      "violations": []
+    },
+    {
+      "label": "atendimento demonstração",
+      "violations": []
+    },
+    {
+      "label": "calendário demonstração",
+      "violations": []
+    },
+    {
+      "label": "dados demonstração",
+      "violations": []
+    },
+    {
+      "label": "resumo demonstração",
+      "violations": []
+    },
+    {
+      "label": "conclusão demonstração",
+      "violations": []
+    },
+    {
+      "label": "conclusão demo 320",
+      "violations": []
+    },
+    {
+      "label": "conclusão cliente sem número",
+      "violations": []
+    },
+    {
+      "label": "desktop final",
+      "violations": []
+    }
+  ],
+  "errors": []
+}

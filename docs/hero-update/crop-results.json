@@ -1,0 +1,48 @@
+{
+  "source": "codex-clipboard-bb5b3830-cad4-4702-8241-5bf2c64ba18d.png",
+  "source_size": [
+    1672,
+    941
+  ],
+  "inner_inset": 3,
+  "exports": [
+    {
+      "file": "badboys-hero-desktop.webp",
+      "detected_bounds": [
+        26,
+        111,
+        1201,
+        771
+      ],
+      "crop_box_exclusive": [
+        29,
+        114,
+        1198,
+        768
+      ],
+      "width": 1169,
+      "height": 654,
+      "bytes": 634060,
+      "pixel_identical_to_source_crop": true
+    },
+    {
+      "file": "badboys-hero-mobile.webp",
+      "detected_bounds": [
+        1226,
+        23,
+        1651,
+        918
+      ],
+      "crop_box_exclusive": [
+        1229,
+        26,
+        1648,
+        915
+      ],
+      "width": 419,
+      "height": 889,
+      "bytes": 296050,
+      "pixel_identical_to_source_crop": true
+    }
+  ]
+}

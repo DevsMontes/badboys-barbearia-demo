@@ -1,0 +1,363 @@
+{
+  "errors": [],
+  "reducedMotion": true,
+  "cases": [
+    {
+      "w": 375,
+      "h": 812,
+      "stage": "inicio",
+      "progress": "0",
+      "aperture": "0",
+      "shutter": "matrix(1, 0, 0, 1, 0, 0)",
+      "overflow": false,
+      "bounds": [
+        24.003937007874022,
+        191.81102362204726,
+        350.996062992126,
+        558.992125984252
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    },
+    {
+      "w": 375,
+      "h": 812,
+      "stage": "revelacao",
+      "progress": "0.41901692183722805",
+      "aperture": "0.3795875987499535",
+      "shutter": "matrix(1, 0, 0, 1, 0, -168.289)",
+      "overflow": false,
+      "bounds": [
+        24.003937007874022,
+        191.81102362204726,
+        350.996062992126,
+        558.992125984252
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    },
+    {
+      "w": 375,
+      "h": 812,
+      "stage": "final",
+      "progress": "0.9991941982272361",
+      "aperture": "0.9999980530969498",
+      "shutter": "matrix(1, 0, 0, 1, 0, -443.345)",
+      "overflow": false,
+      "bounds": [
+        24.003937007874022,
+        191.81102362204726,
+        350.996062992126,
+        558.992125984252
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "stage": "inicio",
+      "progress": "0",
+      "aperture": "0",
+      "shutter": "matrix(1, 0, 0, 1, 0, 0)",
+      "overflow": false,
+      "bounds": [
+        25.060742407199108,
+        199.37007874015748,
+        364.9392575928009,
+        581.0213723284589
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "stage": "revelacao",
+      "progress": "0.4210526315789474",
+      "aperture": "0.38256305583904365",
+      "shutter": "matrix(1, 0, 0, 1, 0, -176.292)",
+      "overflow": false,
+      "bounds": [
+        25.060742407199108,
+        199.37007874015748,
+        364.9392575928009,
+        581.0213723284589
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    },
+    {
+      "w": 390,
+      "h": 844,
+      "stage": "final",
+      "progress": "1",
+      "aperture": "1",
+      "shutter": "matrix(1, 0, 0, 1, 0, -460.819)",
+      "overflow": false,
+      "bounds": [
+        25.060742407199108,
+        199.37007874015748,
+        364.9392575928009,
+        581.0213723284589
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    },
+    {
+      "w": 430,
+      "h": 932,
+      "stage": "inicio",
+      "progress": "0",
+      "aperture": "0",
+      "shutter": "matrix(1, 0, 0, 1, 0, 0)",
+      "overflow": false,
+      "bounds": [
+        27.341957255343054,
+        220.15748031496065,
+        402.65804274465694,
+        641.6017997750282
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    },
+    {
+      "w": 430,
+      "h": 932,
+      "stage": "revelacao",
+      "progress": "0.4211708549768356",
+      "aperture": "0.3827359764565504",
+      "shutter": "matrix(1, 0, 0, 1, 0, -194.758)",
+      "overflow": false,
+      "bounds": [
+        27.341957255343054,
+        220.15748031496065,
+        402.65804274465694,
+        641.6017997750282
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    },
+    {
+      "w": 430,
+      "h": 932,
+      "stage": "final",
+      "progress": "0.9995788291450232",
+      "aperture": "0.9999994679947515",
+      "shutter": "matrix(1, 0, 0, 1, 0, -508.856)",
+      "overflow": false,
+      "bounds": [
+        27.341957255343054,
+        220.15748031496065,
+        402.65804274465694,
+        641.6017997750282
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "stage": "inicio",
+      "progress": "0",
+      "aperture": "0",
+      "shutter": "matrix(1, 0, 0, 1, 0, 0)",
+      "overflow": false,
+      "bounds": [
+        378.2198198198198,
+        98,
+        1063.0846846846846,
+        822
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "stage": "revelacao",
+      "progress": "0.42016806722689076",
+      "aperture": "0.38126966060769335",
+      "shutter": "matrix(1, 0, 0, 1, 0, -187.356)",
+      "overflow": false,
+      "bounds": [
+        378.2198198198198,
+        98,
+        1063.0846846846846,
+        822
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    },
+    {
+      "w": 1440,
+      "h": 900,
+      "stage": "final",
+      "progress": "1",
+      "aperture": "1",
+      "shutter": "matrix(1, 0, 0, 1, 0, -491.4)",
+      "overflow": false,
+      "bounds": [
+        378.2198198198198,
+        98,
+        1063.0846846846846,
+        822
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    },
+    {
+      "w": 1411,
+      "h": 767,
+      "stage": "inicio",
+      "progress": "0",
+      "aperture": "0",
+      "shutter": "matrix(1, 0, 0, 1, 0, 0)",
+      "overflow": false,
+      "bounds": [
+        426.50540540540544,
+        98,
+        985.5594594594595,
+        689
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    },
+    {
+      "w": 1411,
+      "h": 767,
+      "stage": "revelacao",
+      "progress": "0.4206375287545186",
+      "aperture": "0.38195600660196444",
+      "shutter": "matrix(1, 0, 0, 1, 0, -159.952)",
+      "overflow": false,
+      "bounds": [
+        426.50540540540544,
+        98,
+        985.5594594594595,
+        689
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    },
+    {
+      "w": 1411,
+      "h": 767,
+      "stage": "final",
+      "progress": "0.9990141307919816",
+      "aperture": "0.9999970861021218",
+      "shutter": "matrix(1, 0, 0, 1, 0, -418.768)",
+      "overflow": false,
+      "bounds": [
+        426.50540540540544,
+        98,
+        985.5594594594595,
+        689
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    },
+    {
+      "w": 1920,
+      "h": 1080,
+      "stage": "inicio",
+      "progress": "0",
+      "aperture": "0",
+      "shutter": "matrix(1, 0, 0, 1, 0, 0)",
+      "overflow": false,
+      "bounds": [
+        570.0900900900901,
+        98,
+        1425.2252252252251,
+        1002
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    },
+    {
+      "w": 1920,
+      "h": 1080,
+      "stage": "revelacao",
+      "progress": "0.42016806722689076",
+      "aperture": "0.38126966060769335",
+      "shutter": "matrix(1, 0, 0, 1, 0, -224.825)",
+      "overflow": false,
+      "bounds": [
+        570.0900900900901,
+        98,
+        1425.2252252252251,
+        1002
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    },
+    {
+      "w": 1920,
+      "h": 1080,
+      "stage": "final",
+      "progress": "1",
+      "aperture": "1",
+      "shutter": "matrix(1, 0, 0, 1, 0, -589.673)",
+      "overflow": false,
+      "bounds": [
+        570.0900900900901,
+        98,
+        1425.2252252252251,
+        1002
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    },
+    {
+      "w": 768,
+      "h": 1024,
+      "stage": "inicio",
+      "progress": "0",
+      "aperture": "0",
+      "shutter": "matrix(1, 0, 0, 1, 0, 0)",
+      "overflow": false,
+      "bounds": [
+        54.98806682577566,
+        143.5799522673031,
+        711.1789976133651,
+        880.4200477326968
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    },
+    {
+      "w": 768,
+      "h": 1024,
+      "stage": "revelacao",
+      "progress": "0.41962061697643227",
+      "aperture": "0.3804695629690734",
+      "shutter": "matrix(1, 0, 0, 1, 0, -212.718)",
+      "overflow": false,
+      "bounds": [
+        54.98806682577566,
+        143.5799522673031,
+        711.1789976133651,
+        880.4200477326968
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    },
+    {
+      "w": 768,
+      "h": 1024,
+      "stage": "final",
+      "progress": "1",
+      "aperture": "1",
+      "shutter": "matrix(1, 0, 0, 1, 0, -559.092)",
+      "overflow": false,
+      "bounds": [
+        54.98806682577566,
+        143.5799522673031,
+        711.1789976133651,
+        880.4200477326968
+      ],
+      "backdrop": "url(\"http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp\")",
+      "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "passed": [
+    "menu e âncoras",
+    "seleção pela lista de serviços",
+    "validação sem data",
+    "bloqueio de horário fora do funcionamento",
+    "nome obrigatório",
+    "resumo completo",
+    "cópia real no clipboard",
+    "edição preserva dados",
+    "nenhum dado em localStorage ou sessionStorage"
+  ],
+  "consoleErrors": []
+}

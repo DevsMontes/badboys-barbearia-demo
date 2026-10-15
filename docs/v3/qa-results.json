@@ -1,0 +1,224 @@
+{
+  "checks": [
+    "H: fachada WebP e JPEG HTTP 200; imagem real exibida; nova transição",
+    "A: registro de Guilherme criado, exibido no painel e confirmado apenas na simulação",
+    "B: mesmo profissional e horário indisponível após criação",
+    "C: João Pedro recebe o mesmo horário de forma independente; filtros visuais por profissional",
+    "D: cancelamento no painel libera novamente o horário de Guilherme",
+    "ciclo Pendente → Confirmado → Em atendimento → Concluído e agenda semanal",
+    "E: armazenamento em memória escolhido; recarregar elimina exemplos criados e restaura base fictícia",
+    "restauração exige confirmação explícita no navegador",
+    "F: contato demonstrativo abre, copia mensagem, fecha por Escape e não usa telefone fictício",
+    "G: links exatos do Maps; iframe por endereço carregado sob demanda, sem coordenada inventada",
+    "fallback JPEG validado com falha WebP injetada",
+    "abertura: redução de 40–50% da distância em mobile/tablet/desktop, sem overflow"
+  ],
+  "targetDate": "2026-11-02",
+  "time": "09:00",
+  "widths": [
+    {
+      "width": 320,
+      "height": 844,
+      "scrollWidth": 320,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 360,
+      "height": 844,
+      "scrollWidth": 360,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 375,
+      "height": 844,
+      "scrollWidth": 375,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 402,
+      "height": 844,
+      "scrollWidth": 402,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 430,
+      "height": 844,
+      "scrollWidth": 430,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "height": 1000,
+      "scrollWidth": 768,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "scrollWidth": 1024,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 1920,
+      "height": 1000,
+      "scrollWidth": 1920,
+      "overflow": [],
+      "brokenImages": []
+    }
+  ],
+  "adminWidths": [
+    {
+      "width": 320,
+      "height": 844,
+      "scrollWidth": 320,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 360,
+      "height": 844,
+      "scrollWidth": 360,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 375,
+      "height": 844,
+      "scrollWidth": 375,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 402,
+      "height": 844,
+      "scrollWidth": 402,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 430,
+      "height": 844,
+      "scrollWidth": 430,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "height": 1000,
+      "scrollWidth": 768,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "scrollWidth": 1024,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "brokenImages": []
+    },
+    {
+      "width": 1920,
+      "height": 1000,
+      "scrollWidth": 1920,
+      "overflow": [],
+      "brokenImages": []
+    }
+  ],
+  "intro": [
+    {
+      "width": 320,
+      "height": 844,
+      "travel": 380,
+      "travelReduction": 0.4703094507945358
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "travel": 380,
+      "travelReduction": 0.4703094507945358
+    },
+    {
+      "width": 768,
+      "height": 1000,
+      "travel": 600,
+      "travelReduction": 0.4545454545454546
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "travel": 700,
+      "travelReduction": 0.46153846153846156
+    }
+  ],
+  "audits": [
+    {
+      "label": "slots demonstrativos",
+      "violations": []
+    },
+    {
+      "label": "conclusão simulada",
+      "violations": []
+    },
+    {
+      "label": "painel Guilherme",
+      "violations": []
+    },
+    {
+      "label": "agenda semanal desktop",
+      "violations": []
+    },
+    {
+      "label": "WhatsApp demonstrativo",
+      "violations": []
+    },
+    {
+      "label": "painel desktop final",
+      "violations": []
+    },
+    {
+      "label": "painel 320",
+      "violations": []
+    },
+    {
+      "label": "semanal 320",
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "scope": "Inteiramente local/simulado; sem testes de backend, autenticação ou persistência remota."
+}

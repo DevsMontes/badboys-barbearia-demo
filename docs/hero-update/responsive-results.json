@@ -1,0 +1,359 @@
+[
+  {
+    "viewport": [
+      375,
+      812
+    ],
+    "overflow": false,
+    "art": "mobile",
+    "fit": "cover",
+    "position": "44.0756% 50%",
+    "bounds": [
+      24.003937007874022,
+      191.81102362204726,
+      350.996062992126,
+      558.992125984252
+    ],
+    "frame": [
+      375,
+      812
+    ],
+    "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp",
+    "natural": [
+      419,
+      889
+    ],
+    "opacity": "0.999758",
+    "clip": "none",
+    "transform": "none",
+    "resources": [
+      "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    ],
+    "initialOpacity": "0.7",
+    "reduced": false,
+    "errors": [],
+    "logoInside": true,
+    "screenshot": "hero-375.png"
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "overflow": false,
+    "art": "mobile",
+    "fit": "cover",
+    "position": "43.907% 50%",
+    "bounds": [
+      25.060742407199108,
+      199.37007874015748,
+      364.9392575928009,
+      581.0213723284589
+    ],
+    "frame": [
+      390,
+      844
+    ],
+    "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp",
+    "natural": [
+      419,
+      889
+    ],
+    "opacity": "1",
+    "clip": "none",
+    "transform": "none",
+    "resources": [
+      "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    ],
+    "initialOpacity": "0.7",
+    "reduced": false,
+    "errors": [],
+    "logoInside": true,
+    "screenshot": "hero-390.png"
+  },
+  {
+    "viewport": [
+      430,
+      932
+    ],
+    "overflow": false,
+    "art": "mobile",
+    "fit": "cover",
+    "position": "44.3433% 50%",
+    "bounds": [
+      27.341957255343054,
+      220.15748031496065,
+      402.65804274465694,
+      641.6017997750282
+    ],
+    "frame": [
+      430,
+      932
+    ],
+    "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp",
+    "natural": [
+      419,
+      889
+    ],
+    "opacity": "0.999874",
+    "clip": "none",
+    "transform": "none",
+    "resources": [
+      "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    ],
+    "initialOpacity": "0.7",
+    "reduced": false,
+    "errors": [],
+    "logoInside": true,
+    "screenshot": "hero-430.png"
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "overflow": false,
+    "art": "desktop",
+    "fit": "contain",
+    "position": "50% 50%",
+    "bounds": [
+      378.2198198198198,
+      98,
+      1063.0846846846846,
+      822
+    ],
+    "frame": [
+      1440,
+      900
+    ],
+    "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp",
+    "natural": [
+      1169,
+      654
+    ],
+    "opacity": "0.996359",
+    "clip": "none",
+    "transform": "none",
+    "resources": [
+      "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    ],
+    "initialOpacity": "0.7",
+    "reduced": false,
+    "errors": [],
+    "logoInside": true,
+    "screenshot": "hero-1440.png"
+  },
+  {
+    "viewport": [
+      320,
+      568
+    ],
+    "overflow": false,
+    "art": "mobile",
+    "fit": "cover",
+    "position": "50% 26.9403%",
+    "bounds": [
+      22.911694510739856,
+      130.49164677804296,
+      296.32458233890213,
+      437.50835322195707
+    ],
+    "frame": [
+      320,
+      568
+    ],
+    "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp",
+    "natural": [
+      419,
+      889
+    ],
+    "opacity": "1",
+    "clip": "none",
+    "transform": "none",
+    "resources": [
+      "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    ],
+    "initialOpacity": "0.7",
+    "reduced": false,
+    "errors": [],
+    "logoInside": true
+  },
+  {
+    "viewport": [
+      768,
+      1024
+    ],
+    "overflow": false,
+    "art": "mobile",
+    "fit": "cover",
+    "position": "50% 39.8587%",
+    "bounds": [
+      54.98806682577566,
+      143.5799522673031,
+      711.1789976133651,
+      880.4200477326968
+    ],
+    "frame": [
+      768,
+      1024
+    ],
+    "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp",
+    "natural": [
+      419,
+      889
+    ],
+    "opacity": "0.994884",
+    "clip": "none",
+    "transform": "none",
+    "resources": [
+      "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    ],
+    "initialOpacity": "0.7",
+    "reduced": false,
+    "errors": [],
+    "logoInside": true
+  },
+  {
+    "viewport": [
+      1024,
+      768
+    ],
+    "overflow": false,
+    "art": "desktop",
+    "fit": "contain",
+    "position": "50% 50%",
+    "bounds": [
+      232.53333333333336,
+      98,
+      792.5333333333334,
+      690
+    ],
+    "frame": [
+      1024,
+      768
+    ],
+    "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp",
+    "natural": [
+      1169,
+      654
+    ],
+    "opacity": "0.997179",
+    "clip": "none",
+    "transform": "none",
+    "resources": [
+      "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    ],
+    "initialOpacity": "0.7",
+    "reduced": false,
+    "errors": [],
+    "logoInside": true
+  },
+  {
+    "viewport": [
+      1920,
+      1080
+    ],
+    "overflow": false,
+    "art": "desktop",
+    "fit": "contain",
+    "position": "50% 50%",
+    "bounds": [
+      570.0900900900901,
+      98,
+      1425.2252252252251,
+      1002
+    ],
+    "frame": [
+      1920,
+      1080
+    ],
+    "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp",
+    "natural": [
+      1169,
+      654
+    ],
+    "opacity": "0.99225",
+    "clip": "none",
+    "transform": "none",
+    "resources": [
+      "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    ],
+    "initialOpacity": "0.7",
+    "reduced": false,
+    "errors": [],
+    "logoInside": true,
+    "screenshot": "hero-1920.png"
+  },
+  {
+    "viewport": [
+      844,
+      390
+    ],
+    "overflow": false,
+    "art": "desktop",
+    "fit": "contain",
+    "position": "50% 50%",
+    "bounds": [
+      304.1708108108108,
+      78,
+      540.2789189189189,
+      327.6
+    ],
+    "frame": [
+      844,
+      390
+    ],
+    "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp",
+    "natural": [
+      1169,
+      654
+    ],
+    "opacity": "1",
+    "clip": "none",
+    "transform": "none",
+    "resources": [
+      "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-desktop.webp"
+    ],
+    "initialOpacity": "0.7",
+    "reduced": false,
+    "errors": [],
+    "logoInside": true,
+    "screenshot": "hero-844.png"
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "overflow": false,
+    "art": "mobile",
+    "fit": "cover",
+    "position": "43.907% 50%",
+    "bounds": [
+      25.060742407199108,
+      199.37007874015748,
+      364.9392575928009,
+      581.0213723284589
+    ],
+    "frame": [
+      390,
+      844
+    ],
+    "src": "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp",
+    "natural": [
+      419,
+      889
+    ],
+    "opacity": "1",
+    "clip": "none",
+    "transform": "none",
+    "resources": [
+      "http://127.0.0.1:4173/badboys-barbearia-demo/assets/editorial/badboys-hero-mobile.webp"
+    ],
+    "initialOpacity": "1",
+    "reduced": true,
+    "errors": [],
+    "logoInside": true,
+    "screenshot": "hero-390-reduced.png"
+  }
+]

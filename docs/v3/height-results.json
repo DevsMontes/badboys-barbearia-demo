@@ -1,0 +1,110 @@
+[
+  {
+    "width": 320,
+    "height": 568,
+    "scrollWidth": 320,
+    "route": "#inicio"
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "scrollWidth": 320,
+    "route": "#agendamento"
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "scrollWidth": 320,
+    "route": "#/admin"
+  },
+  {
+    "width": 390,
+    "height": 667,
+    "scrollWidth": 390,
+    "route": "#inicio"
+  },
+  {
+    "width": 390,
+    "height": 667,
+    "scrollWidth": 390,
+    "route": "#agendamento"
+  },
+  {
+    "width": 390,
+    "height": 667,
+    "scrollWidth": 390,
+    "route": "#/admin"
+  },
+  {
+    "width": 430,
+    "height": 932,
+    "scrollWidth": 430,
+    "route": "#inicio"
+  },
+  {
+    "width": 430,
+    "height": 932,
+    "scrollWidth": 430,
+    "route": "#agendamento"
+  },
+  {
+    "width": 430,
+    "height": 932,
+    "scrollWidth": 430,
+    "route": "#/admin"
+  },
+  {
+    "width": 667,
+    "height": 375,
+    "scrollWidth": 667,
+    "route": "#inicio"
+  },
+  {
+    "width": 667,
+    "height": 375,
+    "scrollWidth": 667,
+    "route": "#agendamento"
+  },
+  {
+    "width": 667,
+    "height": 375,
+    "scrollWidth": 667,
+    "route": "#/admin"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "scrollWidth": 844,
+    "route": "#inicio"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "scrollWidth": 844,
+    "route": "#agendamento"
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "scrollWidth": 844,
+    "route": "#/admin"
+  },
+  {
+    "width": 932,
+    "height": 430,
+    "scrollWidth": 932,
+    "route": "#inicio"
+  },
+  {
+    "width": 932,
+    "height": 430,
+    "scrollWidth": 932,
+    "route": "#agendamento"
+  },
+  {
+    "width": 932,
+    "height": 430,
+    "scrollWidth": 932,
+    "route": "#/admin"
+  }
+]
